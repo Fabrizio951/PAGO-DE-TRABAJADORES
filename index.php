@@ -34,7 +34,7 @@
                         <td></td>
                         <td><?php echo date('d-m-y'); ?></td>
                         <td rowspan="7">
-                            <img src="img.jpg" class="img-fluid rounded" alt="Imagen del trabajador">
+                            <img src="img/img.jpg" class="img-fluid rounded" alt="Imagen del trabajador">
                         </td>
                     </tr>
                     <tr>

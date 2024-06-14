@@ -2,6 +2,10 @@
 
 Este proyecto web desarrollado en PHP calcula el salario de los trabajadores en función de su categoría y las horas trabajadas.
 
+## Imagen del Proyecto
+
+![Imagen de Ejemplo](img/proyecto.png)
+
 ## Características
 
 - **Formulario de Entrada:** Permite ingresar el nombre del trabajador, la categoría y las horas trabajadas.
